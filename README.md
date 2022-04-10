@@ -40,4 +40,6 @@ Observatoire de Paris
 
 References:
 
+[Cosmos, Carl Sagan] (https://www.amazon.com/Cosmos-1st-Sagan-Carl-Hardcover/dp/B010WF7PWS/ref=sr_1_5?keywords=cosmos+carl+sagan&qid=1649618612&sprefix=cosmos+carl+s%2Caps%2C349&sr=8-5)
 
+[Alone in the Universe: Why Our Planet Is Unique, John Gribbin] (https://www.amazon.com/Alone-Universe-Why-Planet-Unique/dp/1118147979/ref=sr_1_1?crid=109TB7MPQENQJ&keywords=Alone+in+the+universe&qid=1649618828&sprefix=alone+in+the+universe%2Caps%2C307&sr=8-1)
